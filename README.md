@@ -19,7 +19,7 @@ Directory: /var/secure
 File: user_passwords.txt
 Permissions: Directory 700, File 600
 
-2. Log Directory and File:
+2. Log Directory and File:\n
 Directory: /var/log
 File: user_management.log
 Permissions: Directory 755, File 644
