@@ -7,7 +7,7 @@ The create_users.sh script automates the process of user and group creation base
 ## Usage
 To use the script, follow these steps:
 
-1. Ensure you have the text file containing usernames and groups formatted as username;groups.
+1. Ensure you have the text file containing usernames and groups formatted as `username;groups`
 2. Run the script with the text file as the argument:
 `sudo bash create_users.sh <name-of-text-file>`
 
