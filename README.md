@@ -48,5 +48,6 @@ Permissions: Directory `755, File 644`
 2. Logging ensures traceability of actions taken by the script.
 3. Input validation and error checking are implemented to prevent unexpected behavior.
 
-**In conclusion**
+## In conclusion
+
 Using this script, you may effectively and safely manage user accounts and group memberships on a Linux system. For best results, make sure the input file is formatted correctly and that you execute it with the required permissions.
