@@ -1,6 +1,6 @@
 # Linux User Management Bash Script
 
-## Overview Purpose
+## Overview and Purpose
 
 The create_users.sh script automates the process of user and group creation based on input from a text file. It reads usernames and associated groups, creates users with their respective personal groups, sets up home directories, generates random passwords, logs all actions, and securely stores passwords.
 
