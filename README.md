@@ -1,4 +1,4 @@
-**Linux User Management bash Script **
+# Linux User Management bash Script
 
 **Overview Purpose**
 
